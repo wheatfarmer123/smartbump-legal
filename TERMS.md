@@ -61,4 +61,4 @@ You can stop using SmartBump at any time by resetting your server with `/setup` 
 We may update these Terms at any time. The "Last updated" date at the top will change when we do. Continuing to use SmartBump after an update means you accept the new Terms.
 
 ## 12. Contact
-For questions or concerns, please join our support server (link coming soon).
+For questions or concerns, send a direct message on Discord to **@wheat_farmer123**.
