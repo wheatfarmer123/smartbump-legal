@@ -51,7 +51,7 @@ All data is stored in a private SQLite database on the machine that runs SmartBu
 
 ## 7. Data Retention and Deletion
 - **Server data** is kept while SmartBump is in your server and your server is set up.
-- **When SmartBump is removed from a server,** that server's profile, bump history and ratings are deleted automatically.
+- **When SmartBump is removed from a server,** that server's profile, bump history and ratings are kept for 7 days in case SmartBump is added back, and are hidden from the network during that time. If SmartBump is not added back within 7 days, they are deleted automatically.
 - **When a server is reset** with the reset option in `/setup`, its profile, bump count, bump history and ratings are deleted.
 - **Your rating** can be removed at any time with the Rate button on that server's ad.
 - **Reports and blacklist entries** are kept after a server leaves so we can prevent abuse.
@@ -59,7 +59,7 @@ All data is stored in a private SQLite database on the machine that runs SmartBu
 
 ## 8. Your Rights
 You can:
-- Delete your server's data with the reset option in `/setup`, or by removing SmartBump from your server
+- Delete your server's data immediately with the reset option in `/setup`, or within 7 days by removing SmartBump from your server
 - Remove your rating of any server with the Rate button
 - Ask us to access or delete other data about you, such as your bump history, through our support server
 
