@@ -61,7 +61,7 @@ All data is stored in a private SQLite database on the machine that runs SmartBu
 You can:
 - Delete your server's data immediately with the reset option in `/setup`, or within 7 days by removing SmartBump from your server
 - Remove your rating of any server with the Rate button
-- Ask us to access or delete other data about you, such as your bump history, through our support server
+- Ask us to access or delete other data about you, such as your bump history, by direct message on Discord to **@wheat_farmer123**
 
 ## 9. Children
 SmartBump is only for people who meet the minimum age required to use Discord in their country. We do not knowingly collect data from anyone below that age.
@@ -73,4 +73,4 @@ SmartBump runs on Discord, so all data also passes through Discord and is covere
 We may update this Privacy Policy at any time. The "Last updated" date at the top will change when we do. Continuing to use SmartBump after an update means you accept the new policy.
 
 ## 12. Contact
-For privacy questions or data requests, please join our support server (link coming soon).
+For privacy questions or data requests, send a direct message on Discord to **@wheat_farmer123**.
