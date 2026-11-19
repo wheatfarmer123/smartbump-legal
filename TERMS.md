@@ -1,6 +1,6 @@
 # SmartBump Terms of Service
 
-**Last updated: November 17, 2026**
+**Last updated: November 19, 2026**
 
 ## 1. Acceptance of Terms
 By adding SmartBump to your Discord server, or by using any of its commands or buttons, you agree to these Terms of Service and our [Privacy Policy](PRIVACY.md). If you do not agree, do not use SmartBump and remove it from your server.
@@ -18,6 +18,7 @@ SmartBump is a Discord bot that runs a shared advertising network. Servers that 
 - **Cooldown.** Each server can be bumped once every 2 hours. The cooldown may change at any time.
 - **Your advertisement.** Your ad is made from your server's name, icon, banner, member count, creation date, and the description, tags and colour you set in `/setup`. It includes a permanent invite link to your server that SmartBump creates. You are responsible for everything in your advertisement.
 - **Description rules.** Descriptions must be 20–500 characters and may not contain invite links or mentions.
+- **Featured ads.** In addition to ads from bumps, SmartBump may post featured advertisements chosen by the SmartBump team to the network on a regular schedule. Featured ads are labelled "📌 Featured server".
 - **Ads already posted.** Advertisements are normal Discord messages in other servers. Once posted, they stay in those servers' channels unless those servers delete them.
 
 ## 5. Acceptable Use
