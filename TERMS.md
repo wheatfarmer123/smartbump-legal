@@ -17,7 +17,7 @@ SmartBump is a Discord bot that runs a shared advertising network. Servers that 
 - **Two-way participation.** To bump, your server must have a working ad channel where SmartBump can post advertisements from other servers. If SmartBump cannot post in your ad channel, your advertisements are paused and you cannot bump until it is fixed with `/setup`.
 - **Cooldown.** Each server can be bumped once every 2 hours. The cooldown may change at any time.
 - **Your advertisement.** Your ad is made from your server's name, icon, banner, member count, creation date, and the description, tags and colour you set in `/setup`. It includes a permanent invite link to your server that SmartBump creates. You are responsible for everything in your advertisement.
-- **Description rules.** Descriptions must be 20–400 characters and may not contain invite links or mentions.
+- **Description rules.** Descriptions must be 20–500 characters and may not contain invite links or mentions.
 - **Ads already posted.** Advertisements are normal Discord messages in other servers. Once posted, they stay in those servers' channels unless those servers delete them.
 
 ## 5. Acceptable Use
